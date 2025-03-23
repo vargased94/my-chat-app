@@ -1,8 +1,5 @@
 import { cn } from "@/lib/utils";
-import { FiSun } from "react-icons/fi";
 import { FaGithub } from "react-icons/fa";
-import { Button } from "@/components/ui/button";
-import { MdOutlineDarkMode } from "react-icons/md";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
